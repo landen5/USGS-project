@@ -36,6 +36,13 @@ Transect 1 correlation values:
 While on the aggregate, correlations (r) between these variables and shoreline positions were weak, suggesting no single external variable was responsible for the given variance, a deeper analysis of individual transects tells a different story. For transect 1 (100m), there is a positive correlation (r = 0.53).
 ![](images/image20.png)
 
+If we take the log of sediment discharge, this correlation increases (r = 0.7). 
+![](images/image18.png)
+![](images/image21.png)
+
+While initially promising, this is simply due to the influence of the river mouth adjacent to Molera Point as demonstrated by transects further down the beach, such as Transect 1800m, exhibiting a weak negative correlation. 
+Transect 18 correlation values:
+![](images/image24.png)
 
 
 
