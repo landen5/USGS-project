@@ -127,7 +127,6 @@ Regardless of the differing impacts of climate change, one thing is clear - shor
 Looking forward, to further explore the relationship between fire and flood events to shoreline position change, evaluating the correlation between sediment discharge, wave direction, wave power, and shoreline position on a monthly basis instead of a yearly one would be informative. Additionally, using non-linear regression models would be insightful. 
 
 ### References 
-*
 1. Choueiry, G. (2019, October 26). Understand Forward and Backward Stepwise Regression. https://quantifyinghealth.com/stepwise-selection/
 2. CoastSat. (2022, December 1). Water Research Laboratory. https://www.wrl.unsw.edu.au/research/coastsat
 3. De Baecke, M. (2022, February 4). The Least Squares Method - Cantor’s Paradise. Medium. https://www.cantorsparadise.com/the-least-squares-method-82aaf34a8b26
