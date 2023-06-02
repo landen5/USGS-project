@@ -127,13 +127,14 @@ Regardless of the differing impacts of climate change, one thing is clear - shor
 Looking forward, to further explore the relationship between fire and flood events to shoreline position change, evaluating the correlation between sediment discharge, wave direction, wave power, and shoreline position on a monthly basis instead of a yearly one would be informative. Additionally, using non-linear regression models would be insightful. 
 
 ### References 
-Choueiry, G. (2019, October 26). Understand Forward and Backward Stepwise Regression. https://quantifyinghealth.com/stepwise-selection/
-CoastSat. (2022, December 1). Water Research Laboratory. https://www.wrl.unsw.edu.au/research/coastsat
-De Baecke, M. (2022, February 4). The Least Squares Method - Cantor’s Paradise. Medium. https://www.cantorsparadise.com/the-least-squares-method-82aaf34a8b26
-Example of Multiple Linear Regression in Python. (n.d.). https://datatofish.com/multiple-linear-regression-python/
-Harris, D. (2022, May 2). Why some beaches are getting bigger despite rising sea levels. Phys. Retrieved May 24, 2023, from https://phys.org/news/2022-05-beaches-bigger-sea.html
-Kwok, R. (2022, January 7). Stepwise Regression Tutorial in Python - Towards Data Science. Medium. https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922
-Vos, K., Splinter, K. D., Harley, M. D., Simmons, J. A., & Turner, I. (2019). CoastSat: A Google Earth Engine-enabled Python toolkit to extract shorelines from publicly available satellite imagery. Environmental Modelling and Software, 122, 104528. https://doi.org/10.1016/j.envsoft.2019.104528
-Warrick, J. A., Vos, K., East, A. E., & Vitousek, S. (2022). Fire (plus) flood (equals) beach: coastal response to an exceptional river sediment discharge event. Scientific Reports, 12(1). https://doi.org/10.1038/s41598-022-07209-0
+*
+1. Choueiry, G. (2019, October 26). Understand Forward and Backward Stepwise Regression. https://quantifyinghealth.com/stepwise-selection/
+2. CoastSat. (2022, December 1). Water Research Laboratory. https://www.wrl.unsw.edu.au/research/coastsat
+3. De Baecke, M. (2022, February 4). The Least Squares Method - Cantor’s Paradise. Medium. https://www.cantorsparadise.com/the-least-squares-method-82aaf34a8b26
+4. Example of Multiple Linear Regression in Python. (n.d.). https://datatofish.com/multiple-linear-regression-python/
+5. Harris, D. (2022, May 2). Why some beaches are getting bigger despite rising sea levels. Phys. Retrieved May 24, 2023, from https://phys.org/news/2022-05-beaches-bigger-sea.html
+6. Kwok, R. (2022, January 7). Stepwise Regression Tutorial in Python - Towards Data Science. Medium. https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922
+7. Vos, K., Splinter, K. D., Harley, M. D., Simmons, J. A., & Turner, I. (2019). CoastSat: A Google Earth Engine-enabled Python toolkit to extract shorelines from publicly available satellite imagery. Environmental Modelling and Software, 122, 104528. https://doi.org/10.1016/j.envsoft.2019.104528
+8. Warrick, J. A., Vos, K., East, A. E., & Vitousek, S. (2022). Fire (plus) flood (equals) beach: coastal response to an exceptional river sediment discharge event. Scientific Reports, 12(1). https://doi.org/10.1038/s41598-022-07209-0
 
 
