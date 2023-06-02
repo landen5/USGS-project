@@ -1,7 +1,7 @@
 # California's Changing Coastlines - An Analysis of Displacement Factors and Trends 
 
 Pacific Collegiate School\
-Multivariable Class of 2023\
+Multivariable Class of 2023
 
 
 ### Abstract
