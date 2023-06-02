@@ -1,5 +1,5 @@
-# California's Changing Coastlines <br />
-# An Analysis of Displacement Factors and Trends <br />
+# California's Changing Coastlines
+# An Analysis of Displacement Factors and Trends 
 
 Xander Coomes, Landen Isacson, Aaron Morales
 Pacific Collegiate School
