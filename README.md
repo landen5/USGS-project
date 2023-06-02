@@ -29,7 +29,7 @@ Our evaluation of the factors influencing shoreline position began by comparing 
 
 ![](images/image9.png)
 
-Then, generating correlation values for sediment discharge and wave power with shoreline position using the Pearson correlation coefficient, $r = \frac{n\Sigma xy-\Sigma x\Sigma y}{\sqrt{(n\Sigma x^2 - (\Sigma x)^2)(n \Sigma y^2 - (\Sigma y)^2)}}$ , we arrived at the following:
+Then, generating correlation values for sediment discharge and wave power with shoreline position using the Pearson correlation coefficient, $r = \frac{n\Sigma xy-\Sigma x\Sigma y}{\sqrt{(n\Sigma x^2 - (\Sigma x)^2)(n \Sigma y^2 - (\Sigma y)^2)}}$ , we arrived at the following.
 
 Transect 1 correlation values:
 
@@ -46,9 +46,18 @@ If we take the log of sediment discharge, this correlation increases (r = 0.7).
 ![](images/image21.png)
 
 While initially promising, this is simply due to the influence of the river mouth adjacent to Molera Point as demonstrated by transects further down the beach, such as Transect 1800m, exhibiting a weak negative correlation. 
+
 Transect 18 correlation values:
 
 ![](images/image24.png)
+
+Evidently, a single variable approach is insufficient. With the assumption that wave flux, sediment discharge, wave direction, and past transect locations are directly related to shoreline position, a stepwise multiple linear regression would be the next appropriate approach.
+
+### A Multivariable Comparison
+
+$y = \beta_0 + \beta_1X_1 + ... + \beta_nX_n + \epsilon$
+
+Above is an example of a multiple linear regression, where y is the dependent variable, and x1-xn are independent variables. In order to perform a multiple linear regression, the method of least squares is utilized, such that the sum of squares of the residuals is minimized (hence least squares). This can be done using matrices and linear algebra. An image of the residuals is displayed below, with the dotted lines representing the residual. 
 
 
 
