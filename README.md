@@ -26,22 +26,28 @@ With that being said, before moving into a multivariate approach, it is helpful 
 Our evaluation of the factors influencing shoreline position began by comparing sediment discharge & wave power to transect distance. These correlation analyses were made with annual measurements of the two independent variables(wave power & sediment discharge) and a dependent variable(transect distance) for a given transect 100m from the river mouth between 1985 - 2020. 
 
 ![](images/image8.png)
+
 ![](images/image9.png)
 
 Then, generating correlation values for sediment discharge and wave power with shoreline position using the Pearson correlation coefficient, $r = \frac{n\Sigma xy-\Sigma x\Sigma y}{\sqrt{(n\Sigma x^2 - (\Sigma x)^2)(n \Sigma y^2 - (\Sigma y)^2)}}$ , we arrived at the following:
 
 Transect 1 correlation values:
+
 ![](images/image23.png)
 
 While on the aggregate, correlations (r) between these variables and shoreline positions were weak, suggesting no single external variable was responsible for the given variance, a deeper analysis of individual transects tells a different story. For transect 1 (100m), there is a positive correlation (r = 0.53).
+
 ![](images/image20.png)
 
 If we take the log of sediment discharge, this correlation increases (r = 0.7). 
+
 ![](images/image18.png)
+
 ![](images/image21.png)
 
 While initially promising, this is simply due to the influence of the river mouth adjacent to Molera Point as demonstrated by transects further down the beach, such as Transect 1800m, exhibiting a weak negative correlation. 
 Transect 18 correlation values:
+
 ![](images/image24.png)
 
 
